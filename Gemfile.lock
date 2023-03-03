@@ -38,7 +38,6 @@ GEM
       listen (~> 3.0)
     just-the-docs (0.4.1)
       jekyll (>= 3.8.5)
-      jekyll-seo-tag (>= 2.0)
       rake (>= 12.3.1)
     kramdown (2.4.0)
       rexml

@@ -3,6 +3,3 @@ description: Notes for Web Development 1 course
 theme: just-the-docs
 
 url: https://obaadelusi.github.io/webd-wd1-notes
-
-plugins:
-    - jekyll-seo-tag
