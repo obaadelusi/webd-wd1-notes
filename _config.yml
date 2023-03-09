@@ -1,5 +1,14 @@
 title: WEBD WD1 Notes
-description: Notes for Web Development 1 course
+description: Course notes for Web Development 1
 theme: just-the-docs
 
 url: https://obaadelusi.github.io/webd-wd1-notes
+
+footer_content: 'Copyright &copy; 2023 Oba Adelusi'
+
+# Back to top link
+back_to_top: true
+back_to_top_text: 'Back to top'
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
