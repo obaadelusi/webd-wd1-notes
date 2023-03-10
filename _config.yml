@@ -12,3 +12,21 @@ back_to_top_text: 'Back to top'
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+# Callouts style
+callouts:
+    warning:
+        title: Warning
+        color: red
+    highlight:
+        title: Highlight
+        color: yellow
+    note:
+        title: Note
+        color: purple
+    important:
+        title: Important
+        color: blue
+    new:
+        title: New
+        color: green
