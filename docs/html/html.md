@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HTML
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
@@ -13,14 +13,13 @@ This section will help you answer some of the following questions.
 -   What is HTML?
 -   How can I display various content types?
 
-# Learning Objectives
+## Learning Objectives
 
 1. Setup Visual Studio Code.
 2. Describe the structure of a web page.
-3. Code the different types of elements.
-4. Add an image to the
-5. Use tag attributes to add options.
+3. Add several types of content to a web page.
+4. Use tag attributes to add options.
 
 ---
 
-HTML is a markup language for displaying and structuring content on a web page.
+HTML is a markup language for structuring and displaying content on a web page.
